@@ -106,7 +106,7 @@ img, object, embed, video {
 	position: absolute;
 	display:block;
 	border-radius:100%;
-	margin-left:72%;
+	margin-left:69%;
 	margin-top:-75px;
 	line-height:1;
 	padding:2px;
@@ -227,6 +227,7 @@ img, object, embed, video {
 	margin-top:20px;
 	padding-top:10px;
 	background-color:#ECECEC;
+	border:1px solid #ECECEC;
 }
 #about-product-title{
 	font-size: 24px;
@@ -254,6 +255,7 @@ img, object, embed, video {
 	padding-bottom:45px;
 	color:#FFF;
 	font-size:28px;
+	border:1px solid #2F4158;
 }
 #reviews-container {
 }
@@ -271,6 +273,7 @@ img, object, embed, video {
 	max-width:832px;
 	margin-left:auto;
 	margin-right:auto;
+	margin-top:15px;
 }
 .review-stars a{
 	max-width:832px;
@@ -350,7 +353,7 @@ img, object, embed, video {
 	padding-top:15px; 
 	font-size:11px; 
 	color:#111; 
-	line-height:1; 
+	line-height:1;  
 }
 #links{
 	padding-top:15px; 
@@ -491,6 +494,7 @@ img, object, embed, video {
 	margin-left: 0;
 	width: 100%;
 	display: block;
+	margin-bottom:0;
 }
 #reviews {
 	clear: both;
@@ -498,6 +502,12 @@ img, object, embed, video {
 	margin-left: 0;
 	width: 100%;
 	display: block;
+	border-right:1px solid #666;
+	border-left:1px solid #666;
+	margin-top:0px;
+	padding-top:35px;
+	margin-bottom:0;
+
 }
 #fqa {
 	clear: both;
@@ -505,6 +515,10 @@ img, object, embed, video {
 	margin-left: 0;
 	width: 100%;
 	display: block;
+	border-right:1px solid #666;
+	border-left:1px solid #666;
+	margin-bottom:0;
+	margin-top:0px;
 }
 #footer {
 	clear: both;
@@ -512,6 +526,7 @@ img, object, embed, video {
 	margin-left: 0;
 	width: 100%;
 	display: block;
+	margin-top:0px;
 }
 #copyright{
 	padding-top:15px; 
@@ -595,6 +610,7 @@ img, object, embed, video {
 	margin-left: 0;
 	width: 100%;
 	display: block;
+	
 }
 #call-to-action-3 {
 	clear: both;
