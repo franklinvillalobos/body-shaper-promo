@@ -106,7 +106,7 @@ img, object, embed, video {
 	position: absolute;
 	display:block;
 	border-radius:100%;
-	margin-left:75%;
+	margin-left:72%;
 	margin-top:-75px;
 	line-height:1;
 	padding:2px;
@@ -351,16 +351,12 @@ img, object, embed, video {
 	font-size:11px; 
 	color:#111; 
 	line-height:1; 
-	display:inline-block; 
-	float:right;
 }
 #links{
 	padding-top:15px; 
 	font-size:11px; 
 	color:#111; 
 	line-height:1; 
-	display:inline-block; 
-	float:left;
 }
 /* Diseño tableta: de 481 px a 768 px. Hereda estilos de: Diseño móvil. */
 
