@@ -217,7 +217,11 @@ img, object, embed, video {
 	border-left:1px solid #a3a3a3;
 	
 }
-
+.items-word{
+	font-size:16px;
+	display:block;
+	margin-top:10px;
+}
 #product-description {
 	clear: both;
 	float: left;
